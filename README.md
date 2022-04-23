@@ -1,2 +1,5 @@
-# princeton-algorithms-part1
-This is my repository with all files for Princeton's Algorithms Part 1 course on Coursera
+# Alogithms Part 1, Princeton University
+
+This repository contains my code for the first part of Princeton's Algorithm course.
+
+The course takes six weeks.
